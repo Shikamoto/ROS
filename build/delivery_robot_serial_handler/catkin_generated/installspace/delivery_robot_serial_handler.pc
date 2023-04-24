@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_catkin_ws/install
+
+Name: delivery_robot_serial_handler
+Description: Description of delivery_robot_serial_handler
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp rospy std_msgs

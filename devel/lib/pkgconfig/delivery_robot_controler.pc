@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_catkin_ws/devel
+
+Name: delivery_robot_controler
+Description: Description of delivery_robot_controler
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

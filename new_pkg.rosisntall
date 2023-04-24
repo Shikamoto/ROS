@@ -1,0 +1,9 @@
+- git:
+    local-name: ros_tutorials/roscpp_tutorials
+    uri: https://github.com/ros-gbp/ros_tutorials-release.git
+    version: release/noetic/roscpp_tutorials/0.10.2-1
+- git:
+    local-name: ros_tutorials/rospy_tutorials
+    uri: https://github.com/ros-gbp/ros_tutorials-release.git
+    version: release/noetic/rospy_tutorials/0.10.2-1
+
