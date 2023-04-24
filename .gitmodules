@@ -1,0 +1,3 @@
+[submodule "src/Brain_ROS"]
+	path = src/Brain_ROS
+	url = git@github.com:Shikamoto/Brain_ROS.git
